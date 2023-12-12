@@ -1,0 +1,11 @@
+.wrapper {
+	max-width: 1300px;
+	margin: 0 auto;
+}
+.list {
+list-style-type: none;
+}
+.more {
+	margin: 0 auto;
+	display: block;
+}

@@ -1,0 +1,47 @@
+.wrapper {
+	max-width: 1300px;
+	margin: 0 auto;
+}
+
+
+.name {
+	background: #F5EBDB;
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+	padding: 25px 50px;
+	margin: 20px 0;
+	font-family: 'Roboto';
+	font-style: normal;
+	color: black;
+}
+.name h2 {
+	font-weight: 700;
+	font-size: 28px;
+	line-height: 33px;
+	border-bottom: 1px solid #C08767;
+}
+.name p {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+
+}
+.submit {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+
+	border-radius: 70px;
+	background-color: #FCF7EF;
+	padding: 8px 40px;
+	cursor: pointer;
+	border: 1px solid #C08767;
+	color: #C08767;
+	transition: all 0.5s;
+}
+.submit:hover {
+	background: #C08767;
+	color: #FCF7EF;
+}

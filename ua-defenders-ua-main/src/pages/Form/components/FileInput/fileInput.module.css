@@ -1,0 +1,55 @@
+.container {
+    background: #F5EBDB;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 25px 50px;
+    margin: 20px 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    color: black;
+}
+.label {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+}
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28p
+}
+.input {
+    width: 0px;
+    padding-right: 40%;
+    margin-left: 40%;
+    border-radius: 15px;
+    border: 3px solid #C08767;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    background-color: #C08767;
+
+
+
+}
+
+.input:focus {
+    border-bottom: 4px solid #C08767;
+}
+.customFileInput {
+    display: none;
+}
+
+.customFileInputLabel {
+    cursor: pointer;
+    width: 20%;
+    height: 22px;
+    font-size: 20px;
+    color: #C08767;
+    background-color: #fff;
+    text-align: center;
+    margin-left: 60%;
+    border-radius: 15px;
+    display: inline-block;
+    border: 3px solid #C08767;
+}

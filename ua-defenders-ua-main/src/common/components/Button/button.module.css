@@ -1,0 +1,19 @@
+.button {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+
+	border-radius: 70px;
+	background-color: #FCF7EF;
+	padding: 8px 40px;
+	cursor: pointer;
+	border: 1px solid #C08767;
+	color: #C08767;
+	transition: all 0.5s;
+}
+.button:hover {
+	background: #C08767;
+	color: #FCF7EF;
+}

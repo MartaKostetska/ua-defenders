@@ -1,0 +1,67 @@
+.block{
+
+}
+
+/* flex-контейнер */
+.block__row{
+    display:flex;
+}
+
+/* flex-элемент */
+.block__element{
+
+
+}
+.block__element2{
+    margin-top: 40px;
+    margin-left: 150px;
+
+}
+
+/* контент */
+.block__content{
+    background-color: #18b5a4;
+    /* плюс прочие стили для текста, отступы */
+}
+
+.block_menu {
+    margin-left: 50px;
+}
+
+.title_menu {
+    font-size: 40px;
+}
+
+.block__row_menu{
+    border: 1.5px solid #C08767;
+    width: 270px;
+}
+
+.block__element_menu{
+    height: 30px;
+    width: 270px;
+    border: 1.5px solid #C08767;;
+    background-color: rgba(242, 227, 204, 0.6);
+    transition-duration: 0.5s;
+}
+
+.block__element_menu:hover {
+    background-color: #C08767;
+}
+.block__element_menu.active {
+    background-color: #C08767;
+}
+
+.block__content_menu{
+    margin-left: 20px ;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+
+
+
+

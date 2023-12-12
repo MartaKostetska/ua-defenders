@@ -1,0 +1,15 @@
+.footer {
+width: 100%;
+padding: 80px 0;
+margin-top: 155px;
+}
+.text {
+	text-align: right;
+	font-family: 'Imbue';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 24px;
+margin-right: 150px;
+color: #000000;
+}

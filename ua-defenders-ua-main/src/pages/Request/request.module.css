@@ -1,0 +1,55 @@
+.wrapper {
+	max-width: 1300px;
+	margin: 0 auto;
+	font-family: 'Roboto';
+	font-style: normal;
+	color: black;
+}
+.main {
+	display: flex;
+	justify-content: space-between;
+}
+
+.postimg {
+	max-width: 420px;
+	max-height: 300px;
+	margin-top: 45px;
+	margin-bottom: 30px;
+}
+.active {
+	border-bottom: 5px solid #C08767;
+}
+.cklickers {
+	display: flex;
+	justify-content: space-around;
+}
+
+.h4{
+	width: 50%;
+	display: block;
+	font-size: 25px;
+	font-weight: 600;
+	cursor: pointer;
+}
+/* {
+background: #F5EBDB;
+border: 1px solid #FFFFFF;
+border-radius: 10px;
+padding: 25px 50px;
+margin: 20px 0;
+} */
+/* .menu h1 {
+	font-weight: 700;
+	font-size: 48px;
+}
+
+.net h2 {
+	font-weight: 700;
+	font-size: 28px;
+	line-height: 33px;
+}
+.strong {
+	font-weight: 600;
+	display: block;
+} */
+

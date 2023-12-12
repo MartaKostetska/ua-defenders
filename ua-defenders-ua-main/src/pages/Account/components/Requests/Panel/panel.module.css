@@ -1,0 +1,15 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.wrapper>div {
+	margin: 5px;
+}
+.line {
+	margin-top: 15px;
+	border: 3px solid #C08767;
+	width: 1250px;
+}

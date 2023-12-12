@@ -1,0 +1,42 @@
+.wrapper {
+	max-width: 1175px;
+	margin: 0 auto;
+}
+.img {
+	max-width: 1275px;
+	margin: 0 auto;
+}
+.fonds {
+	display: flex;
+	justify-content: space-between;
+}
+.types, .description, .fonds {
+	display: flex;
+	justify-content: space-between;
+}
+.description img{
+	max-width: 471px;
+	max-height: 390px;
+	margin-top: 30px;
+}
+.fonds, .support, .text
+{
+background: #F5EBDB;
+border: 1px solid #FFFFFF;
+border-radius: 10px;
+padding: 10px 35px;
+margin: 20px 0;
+}
+.fonds img {
+	max-width: 186px;
+	height: 186px;
+	/* margin-top: 7%; */
+	width: 100%;
+}
+
+.text {
+	width: 50%;
+}
+/* .description img{
+	width: 45%;
+} */

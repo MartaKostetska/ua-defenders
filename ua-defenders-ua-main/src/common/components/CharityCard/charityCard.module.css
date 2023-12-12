@@ -1,0 +1,54 @@
+.content, .buttons {
+	display: flex;
+	justify-content: space-between;
+
+}
+.buttons {
+	border-top: 1px solid #C08767;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.documentsBlocks {
+	display: flex;
+}
+.whiteCube {
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	margin-left: 20px;
+	background-color: #fff;
+	width: 120px;
+	height: 80px;
+	border: 2px solid black;
+	border-radius: 15px;
+	text-align: left;
+	font-size: 12px;
+	padding-left: 5px;
+}
+
+.btn {
+	margin: 0 10px;
+}
+.text {
+	font-family: 'Roboto';
+	font-style: normal;
+	color: black;
+}
+.text p {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+}
+.title {
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 33px;
+}
+.static {
+	font-weight: 600;
+}
+.img {
+	max-width: 280px;
+	max-height: 175px;
+}

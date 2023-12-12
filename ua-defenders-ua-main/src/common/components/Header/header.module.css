@@ -1,0 +1,33 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 24px 92px;
+	background: rgba(242, 227, 204, 0.6);
+}
+.logo {
+	height: 55px;
+}
+.nav {
+	vertical-align: center;
+	display: flex;
+	align-items: center;
+}
+.nav a{
+	color: black;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	margin: 0 15px;
+	color: #C08767;
+	margin-right: 100px
+}
+.nav a:hover{
+	color: #000;
+}
+
+.exit {
+	width: 55px;
+	height: 55px;
+}
